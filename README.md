@@ -1,2 +1,2 @@
-# nanthini
+# NANTHINI
 Spendwise
